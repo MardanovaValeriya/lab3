@@ -20,7 +20,7 @@ int main(){
 		if (sum<=100000){
 			
 			if ((term>30) && (term<121)){
-				income=sum/50;
+				income=sum/40;
 			}
 			if ((term>120) && (term<241)){
 				income=(sum/50)*3;
